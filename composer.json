@@ -11,5 +11,5 @@
       "App\\": "app/",
       "Kidkang\\Forlaravel":"src/"
     }
-  },
+  }
 }
